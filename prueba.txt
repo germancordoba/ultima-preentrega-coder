@@ -1,0 +1,9 @@
+json
+localstorage
+dom
+eventos
+
+
+
+escribo en el input, al tocar el boton se guarda la informacion del input en el localstorage y 
+despues los mostramos en la lista de al lado.Si cierro la venta y la vuelvo abrir veo todos los usuarios guardados
